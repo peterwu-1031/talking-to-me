@@ -1,0 +1,1 @@
+python3 train_best.py --type $1 --mode $2 --vis_ckpt $3 --aud_ckpt $4 --comb_ckpt $5 --train_frame $6 --test_frame $7 --aud_frame $8 --data $9 --out_ckpt $10 --output_path $11
