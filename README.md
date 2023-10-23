@@ -63,3 +63,5 @@ bash run_best.sh comb test ./VIS_best.ckpt ./AUD_best.ckpt ./COMB_all_best.ckpt 
 ```
 
 For more details, please click [this link](https://docs.google.com/presentation/d/1Y-gwBmucYgbWLLk-u6coHi7LybFLXgA9gV8KiOiKShI/edit?usp=sharing).
+Reference for HuBERT: (https://github.com/s3prl/s3prl)
+Reference for ViViT Model 3: (https://github.com/drv-agwl/ViViT-pytorch)
