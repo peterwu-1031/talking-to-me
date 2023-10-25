@@ -1,4 +1,4 @@
-# Ego4D Challenge for CVPR Workshop 2023 & <br> NTU EE DLCV Final Project
+# Ego4D Challenge for CVPR Workshop 2023
 # How to run the codes?
 * Step 1
 
